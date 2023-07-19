@@ -164,6 +164,7 @@ void mainTimerCallback(void *argument);
 
 /* USER CODE END 0 */
 // command added here
+// command added2 here
 /**
  * @brief  The application entry point.
  * @retval int
